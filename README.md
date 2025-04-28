@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edubrotech is managed by Rakesh Singh Bajetha.</h1>
 <h3 align="center">In the YouTube channel "edubrotech," you can find informative and engaging content related to technology, education, and innovation. Led by #Rakesh , the dynamic leader and expert in software development, the channel offers valuable insights into documentation, technical requirements, and various aspects of computer engineering.</h3>
 
-**Subscribe for more updates! ** <p align="left"><a href="https://shorturl.at/d2VvU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edubrotech" height="30" width="40" /></a> </p>
+<p align="left">**Subscribe for more updates!**<a href="https://shorturl.at/d2VvU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edubrotech" height="30" width="40" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edubrotech&label=Profile%20views&color=0e75b6&style=flat" alt="edubrotech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edubrotech" alt="edubrotech" /></a> </p>
